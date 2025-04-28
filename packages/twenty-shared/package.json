@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "@sniptt/guards": "^0.2.0",
+    "twenty-shared": "file:",
     "zod": "3.23.8"
   },
   "preconstruct": {
